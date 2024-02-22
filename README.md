@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Shublakhan Kaur <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Java+8+|+Spring+boot+|+Spring+|+Microservices+|+Go&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Java+8+|+Spring+boot+|+Spring+|+Microservices+|+Go&center=true&width=700&height=50"></a>
 </p>
 
 
